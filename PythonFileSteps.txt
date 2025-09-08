@@ -1,0 +1,4 @@
+"first step: echo Hello > __init__.py"
+"second step: git add ."
+"second step: git commit -m "add python file""
+"last step: git push -u origin main"
